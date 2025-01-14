@@ -1,0 +1,15 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "An easy and short scrapper that works like a charm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
